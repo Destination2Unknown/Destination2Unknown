@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destination2unknown" alt="destination2unknown" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Destination2Unknown](https://github.com/Destination2Unknown)
+- 📈 Online PID Simulator [PIDSimulator](https://pidtuningireland.pythonanywhere.com)
 
 - 🌐 Website link [PIDTuningIreland](https://pidtuningireland.github.io/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **destination0b10unknown@gmail.com**
 
-- 💬 Ask me about **PLCs,SCADA or PIDs**
+- 💬 Ask me about **PLCs, SCADA or PIDs**
 
 - ⚡ Fun fact **It's pronounced "Ire-Land"**
 
