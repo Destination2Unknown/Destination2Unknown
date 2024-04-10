@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destination2unknown" alt="destination2unknown" /></a> </p>
 
-- 📈 Online PID Simulator [PIDSimulator](https://pidtuningireland.pythonanywhere.com)
+- 📈 Online PID Simulator [PIDSimulator](https://pidtuningireland.com/#sim)
 
-- 🌐 Website link [PIDTuningIreland](https://pidtuningireland.github.io/)
+- 🌐 Website link [PIDTuningIreland](https://pidtuningireland.com)
 
-- 📺 Some YouTube content at [PIDTuningIreland](https://www.youtube.com/channel/UCjwf8bJZyhVY32I2q2JZnBQ)
+- 📺 Some YouTube content at [PIDTuningIreland](https://www.youtube.com/@pidtuningireland)
 
 - 📫 How to reach me **destination0b10unknown@gmail.com**
 
